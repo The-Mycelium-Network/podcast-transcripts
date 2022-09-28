@@ -22,7 +22,7 @@ So, I've sent some of these questions to you before, just so you can be a little
 So to get us off to a start, tell us a bit about your background. What did you do up to now, and what made you look into getting into software or web development specifically?
 
 **Rico Smit**
-Since I was born and raised here in Pretoria, my uncle has been very heavy into technology. So ever since I was little, I remember standing by him and seeing what he was doing, and it intrigued me from a young age.
+I was born and raised here in Pretoria, my uncle has been very heavy into technology. So ever since I was little, I remember standing by him and seeing what he was doing/creating, and it intrigued me from a young age.
 
 And then, throughout high school, I had the opportunity to take IT and actually discovered the love for coding, and I had a chance to get all of the fundamentals down. But as soon as that ended, I had to walk out into a job. I worked in retail for a hardware shop. So I did what I had to do to survive, but it's not what I wanted to do.
 
