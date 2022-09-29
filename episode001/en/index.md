@@ -11,7 +11,6 @@ Hi, thanks for having me.
 **Schalk Neethling**
 It's a pleasure.
 
-**Rico Smit**
 It's been a rough day. I've done a lot cleaning-wise, studying, and sleeping during load-shedding.
 
 **Schalk Neethling**
