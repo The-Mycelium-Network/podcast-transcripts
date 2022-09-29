@@ -1,7 +1,7 @@
 # The Mycelium Network Podcast Episode One with **Rico Smit**
 
 **Schalk Neethling**
-Hey everyone. And welcome to the very first episode of the [Mycelium network podcast](https://anchor.fm/the-mycelium-network), a podcast all about new people to the development world and the mentors and teachers that help them along the way. Today, we are going to have a chat with **Rico Smit**. He is one of the people that joined the Mycelium network very early on and has been pretty active in the community.
+Hey everyone, and welcome to the very first episode of the [Mycelium network podcast](https://anchor.fm/the-mycelium-network), a podcast all about new people to the development world and the mentors and teachers that help them along the way. Today, we are going to have a chat with **Rico Smit**. He is one of the people that joined the Mycelium network very early on and has been pretty active in the community.
 
 So I thought it only appropriate to have him as one of the first guests. Hey Rico, and welcome to the podcast.
 
