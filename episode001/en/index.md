@@ -12,9 +12,6 @@ Hi, thanks for having me.
 It's a pleasure.
 
 
-**Schalk Neethling**
-Yeah, load-shedding complicates everything. Okay. Let's get right into this.
-
 So, I've sent some of these questions to you before, just so you can be a little bit more prepared, but we will be off the cuff, some things here and there. No pressure, just an informal chat to learn what works and doesn't work, the challenges you're facing, and how the mentors I speak with can help.
 
 So to get us off to a start, tell us a bit about your background. What did you do up to now, and what made you look into getting into software or web development specifically?
