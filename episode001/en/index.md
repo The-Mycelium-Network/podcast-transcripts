@@ -11,7 +11,6 @@ Hi, thanks for having me.
 **Schalk Neethling**
 It's a pleasure.
 
-It's been a rough day. I've done a lot cleaning-wise, studying, and sleeping during load-shedding.
 
 **Schalk Neethling**
 Yeah, load-shedding complicates everything. Okay. Let's get right into this.
