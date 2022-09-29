@@ -9,7 +9,7 @@ So I thought it only appropriate to have him as one of the first guests. Hey Ric
 Hi, thanks for having me.
 
 **Schalk Neethling**
-It's a pleasure. How are you doing today?
+It's a pleasure.
 
 **Rico Smit**
 It's been a rough day. I've done a lot cleaning-wise, studying, and sleeping during load-shedding.
