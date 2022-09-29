@@ -134,7 +134,7 @@ The other thing with courses is that, especially if you're asking for money, you
 That is something as well. I was following books from Microsoft that I was lucky enough to access. But they fell into that trap. I would learn and learn and learn, and at some point, I'll hit a roadblock where something is not working. Now, I have to search for hours just to find out that this phrase is no longer valid. Simply change X to Y, and it works. So that is definitely a pitfall I can see some people falling into. Not keeping everything up to date.
 
 **Schalk Neethling**
-Teeing off something you said earlier, you were thinking of creating some courses to teach people the skills you already have. I believe, in general, that is a good idea. And that's something that many people new to development are a little bit scared of, but that I would encourage. Write about the stuff that you learn.
+Teeing off something you said earlier, you were thinking of creating some courses to teach people the skills you already have. I believe, in general, that is a good idea. And something that many people new to development are a little bit scared of, but that I would encourage, is to write about the stuff that you learn.
 
 Because teaching is one of the best ways of learning. If you've built something, write about how you created it. It doesn't necessarily need to tell a story about your struggles. It can really just be you writing down how to make a responsive hero with HTML and CSS, for example.
 
@@ -161,7 +161,7 @@ All it is is a website that loads some JSON with a specific structure and loops 
 I don't know if you've ever looked up [SQLite](https://www.sqlite.org/index.html), but if you haven't, SQLite is essentially just a flat text file on your hard drive that acts as a database. It is super lightweight, hence the name SQLite. And like it's in everything, like your mobile phone for example.
 
 **Rico Smit**
-That's why I like following Mosh. He says you can use an H1 tag to add a title, which is where many people will stop and move on. Personally, I want to know why? What does it do? How does it work? So, he pulls up a graph and tells you H1 does this, and this is how and when you use it.
+That's why I like following Mosh. He says you can use an H1 tag to add a title, and a lot of people will just move on. But, personally, I want to know why. What does it do? How does it work? So, he pulls up a graph and tells you H1 does this, and this is how and when you use it.
 
 So that is something I've been struggling with as well. I've been following someone doing a text adventure game because that was interesting to me. This person would just start typing with no explanation as to why. I'm like, wait, why, why did you do this? How does this work?
 
@@ -181,7 +181,7 @@ Personally, I would like to start my own business. I walked out of high school i
 
 I've reached a point where I have had enough of making someone else rich. I've got a lot of knowledge and experience with many things. I do feel that I want to start my own thing and get away from working for someone else. I have already started my business, but I'm still looking for clients. I've got one possible client pending where I still need to do this interview you're talking about.
 
-Having about three years' worth of sales experience, the interviews are the fun part for me. I look forward to it, and it's exciting. I can definitely see the scary part of it. Having to explain to someone why to choose you. I always remember the term " fake it until you make it in sales. Should the client ask you, can you do back-end development and this whole database thing. Tell them yeah, sure. I have to research and freshen up a couple of things, but let's talk. Let's define what you need, and I'll tell you whether I can or cannot assist you. Then a client's more likely to use you if you're honest about things like that.
+Having about three years' worth of sales experience, the interviews are the fun part for me. I look forward to it, and it's exciting. I can definitely see the scary part of it. Having to explain to someone why to choose you. But what I always found in sales is, if you use the term "fake it until you make it", you can sell a pin to a pin factory. Should the client ask you, can you do back-end development and this whole database thing? Tell them yeah, sure. I have to research and freshen up a couple of things, but let's talk. Let's define what you need, and I'll tell you whether I can or cannot assist you. Then a client's more likely to use you if you're honest about things like that.
 
 They won't feel you are trying to scam them out of money. You're not just someone looking for a quick buck. You're actually interested in the work.
 
@@ -190,7 +190,7 @@ Honesty goes a long way in business. I say that knowing full well that the busin
 
 And, of course, those I would not be willing to work with. And I think I shield myself a little bit from this; it's all about the money. I think it's essential to be open and honest. This specific part of the project might be a little bit more challenging, but you know, I have enough experience in how to find answers.
 
-That's what I do I find solutions to problems. Technology is almost the easy part. Understanding the problem and defining the solution is often more challenging than writing the code. First, it's understanding what the problem is that the client's facing and how to best solve it. And only then do we ask which technology would best help me implement the solution.
+That's what I do, I find solutions to problems. Technology is almost the easy part. Understanding the problem and defining the solution is often more challenging than writing the code. First, it's understanding what the problem is that the client's facing and how to best solve it. And only then do we ask which technology would best help me implement the solution.
 
 Often people will come to you with a preconceived idea in their head because they've heard it from a friend. Still, it might not necessarily be the best solution for them. There might be something better that's come along since their friend built their website or product. Their friend might also benefit from your services because they might not know there's a better way. A way that could actually save them money or help grow their business faster.
 
@@ -215,7 +215,7 @@ So, you'll be more open to listening to somebody and giving them a chance. Telli
 You can even struggle, but if you're willing to learn and eager to do what's necessary to get the work done, I'm happy to employ you. The more we can get that kind of thing going, the better.
 
 **Rico Smit**
-That is something I find very difficult. I've been on many platforms, like upWork looking for jobs. I see an opportunity and look at it, and I'm like, I can do this. I can do everything you need. I have all the requirements. I've got the technology, I've got the background, I've got an internet connection. I've got all of this. I only lack the three years of experience you are looking for.
+That is something I find very difficult. I've been on many platforms, like [Upwork](https://www.upwork.com/) looking for jobs. I see an opportunity and look at it, and I'm like, I can do this. I can do everything you need. I have all the requirements. I've got the technology, I've got the background, I've got an internet connection. I've got all of this. I only lack the three years of experience you are looking for.
 
 So, finding that one person that says, "Hey listen, this is your opportunity. Let's see what you can do." that's all you need. It is that one person that says I'm willing to give you a month worth of work. Let's see how you do.
 
@@ -256,7 +256,7 @@ The great thing about freeCodeCamp is, well, it's free, but beyond that, it's bu
 
 It's an open-source project. So you can fork it, open a pull request and propose something that you feel would improve the project. So I think it's great to be involved with projects like that. [MDN Web Docs](https://developer.mozilla.org/) is one of the others I'll shout out to cause I'm pretty involved with them. It's an open-source project. All the content is on GitHub. It's community written, and they have people paid to work on it. But it's a massive open-source project. So I think being involved in these projects is excellent. And there are a lot of wonderful people behind these projects that would be happy to receive pull requests.
 
-So I can personally send an invitation to everybody listening to check out freeCodeCamp and MDN Web Docs.
+So I can personally send an invitation to everybody listening to check out freeCodeCamp and MDN Web Docs, on GitHub and on the web, and learn and contribute. It's all a learning experience opportunity.
 
 **Rico Smit**
 I would like to go back and donate to freeCodeCamp when my business takes off. Then, when I succeed, I would love to go back and donate to freeCodeCamp. freeCodeCamp doesn't cap their learning based on pay gates which is something I am very appreciative of.
