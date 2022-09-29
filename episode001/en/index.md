@@ -128,7 +128,7 @@ That was a big thing for me. A lot of older women don't know. So I was looking a
 And even once I was ready to start, I still felt I had to go through a couple of things and ensure everything was accurate. So I understand why, but not having the funds available to pay, let's say $60 for the advanced course you know will help you. It's quite a hindrance because now I have to search for alternatives where you can get this information for free.
 
 **Schalk Neethling**
-The other thing with courses is that, especially if you're asking for money, you must keep it up to date. It's not something you make and then forget about because, you know, the tech industry evolves and moves quite fast. So that's the other of it, if you want it to be helpful, you have to keep it up to date.
+The other thing with courses is that, especially if you're asking for money, you must keep it up to date. It's not something you make and then forget about because, you know, the tech industry evolves and moves quite fast. So that's the other part of it, if you want it to be helpful, you have to keep it up to date.
 
 **Rico Smit**
 That is something as well. I was following books from Microsoft that I was lucky enough to access. But they fell into that trap. I would learn and learn and learn, and at some point, I'll hit a roadblock where something is not working. Now, I have to search for hours just to find out that this phrase is no longer valid. Simply change X to Y, and it works. So that is definitely a pitfall I can see some people falling into. Not keeping everything up to date.
