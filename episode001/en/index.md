@@ -21,7 +21,7 @@ I was born and raised here in Pretoria, my uncle has been very heavy into techno
 
 And then, throughout high school, I had the opportunity to take IT and actually discovered the love for coding, and I had a chance to get all of the fundamentals down. But as soon as that ended, I had to walk out into a job. I worked in retail for a hardware shop. So I did what I had to do to survive, but it's not what I wanted to do.
 
-I always had this feeling that I wanna do something else. The first course I had with you was where I realized how much I love web development above stuff like app development, server work, or security. I realized I love working with the web creating pages, and designing new things.
+I always had this feeling that I wanted to do something else. The first course I had with you was where I realized how much I love web development above stuff like app development, server work, or security. I realized I love working with the web creating pages, and designing new things.
 
 I just fell in love with it.
 
